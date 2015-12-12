@@ -1,7 +1,7 @@
 knowery
 ===
 
-[![js-standard-style](https://img.shields.io/badge/code%20style-standard-blue.svg?style=flatsquare)](http://standardjs.com/)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-blue.svg?style=flat-square)](http://standardjs.com/)
 
 ---
 
