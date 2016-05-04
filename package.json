@@ -1,7 +1,7 @@
 {
   "name": "knowery",
   "version": "0.0.0",
-  "description: "",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/knowery/knowery.git"
   },
-  "author": "ivan k <ivan@sq10.net>",
+  "author": "Ivan K <ivan@sq10.net>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/knowery/knowery/issues"
